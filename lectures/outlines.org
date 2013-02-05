@@ -1,0 +1,3 @@
+* Feb 07 - Introduction and Installation
+** Introduce ourselves and the project
+** How to install drcsim
