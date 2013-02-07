@@ -1,0 +1,17 @@
+DRCSIMS Tutorials
+By Kyle Volle
+07 February 2013
+
+To prepare the environment enter the following into a terminal shell, starting in the home directory.
+
+$ mkdir ~/ros
+$ echo "export ROS_PACKAGE_PATH=~/ros:\$ROS_PACKAGE_PATH" >> ~/.bashrc
+$ source ~/.bashrc
+$ cd ~/ros
+
+Now clone the git repo into this folder
+
+~/ros$ git clone https://github.com/golems/vrc-golem.git
+
+
+And enter your username and password when prompted
